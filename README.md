@@ -1,0 +1,1 @@
+# shodan-json-self-signed-parser
